@@ -15,6 +15,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
 markdown_extensions:
   - def_list
   - attr_list
@@ -30,7 +31,9 @@ markdown_extensions:
 #  - tags:
 #      tags_file: topics.md 
 plugins:
+  - search
   - git-revision-date-localized:
+      timezone: US/Central
       fallback_to_build_date: true
   - glightbox:
       skip_classes:
@@ -41,10 +44,8 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/cambria-labs/site_www.cambria-labs.com
   generator: false
-
-
-
 nav:
+  - 'Home': index.md
   - 'About': 
     - 'About Cambria': about/about-cambria-labs.md
     - 'Team': index.md
