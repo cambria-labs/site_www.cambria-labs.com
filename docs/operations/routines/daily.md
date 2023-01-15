@@ -12,6 +12,7 @@ tags: [routines]
 - Write down dreams, ideas
 - Drink two glasses of water
 - Say three things you're grateful for to start day with positive energy. (Gratitude List)
+- Read your [goals][../goals/goals] aloud.
 - Read your [goals](../goals/goals) aloud.
 - Stretch (Sun Salutations - 10 min)
 - Make Bed
