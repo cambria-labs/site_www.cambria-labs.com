@@ -3,11 +3,7 @@ title: "Daily Routines"
 tags: [routines]
 ---
 
-## Guidance
-- Every act we perform during the day is goal-achieving, tension-relieving, or unnecessary.
-- Distinguish between the urgent and the important.
-- Eat healthy
-- Prioritize sleeping well
+
 
 # Daily Routines
 - Meditate
@@ -19,6 +15,8 @@ tags: [routines]
 - Write
 
 ## Morning
+- As soon as you wake up, say three things you're grateful for to start your day with positive energy
+- Read your [goals](../goals/goals) aloud.
 - Think about how to improve what you do daily (1 hour) - Blank sheet of paper. Write Goal at the top of pirce of paper. Write 20 ways that the activites that fill your day can be be improved. Embeds your goal into your subconcious.  
 
 ## Ask
@@ -49,3 +47,10 @@ tags: [routines]
 - Group Chat
 	- Slack
 - Upload voice notes
+
+## Guidance
+- Every act we perform during the day is goal-achieving, tension-relieving, or unnecessary.
+- Distinguish between the urgent and the important.
+- Eat healthy
+- Prioritize sleeping well
+- Remember: Your health is everything. It deserves  attention.
