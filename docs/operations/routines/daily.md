@@ -5,18 +5,38 @@ tags: [routines]
 
 
 
-# Daily Routines
-- Meditate
-[Process Email](../processes/communications/process-email.md) - Process every item in your email inbox to Inbox Zero
-- Write To-Do List
-- Exercise
-- Journal
-- Read books
-- Write
+# Daily Routine
+
 
 ## Morning
-- As soon as you wake up, say three things you're grateful for to start your day with positive energy
+- Write down dreams, ideas
+- Drink two glasses of water
+- Say three things you're grateful for to start day with positive energy. (Gratitude List)
 - Read your [goals](../goals/goals) aloud.
+- Stretch (Sun Salutations - 10 min)
+- Make Bed
+- Open Curtains
+- Walk Dogs
+- Put on Music
+- Play with Dogs
+- Dog Breakfast
+- Breakfast
+- Exercise
+	- Bike + Video (20 min)
+- Shower
+- Write down Shower Thoughts
+- Get Dressed
+- Meditate / Hammock (25 min)
+- Journal
+- Write To-Do List
+- Read book (45 min)
+- Write
+- Write a note to someone
+- [Process Email](../processes/communications/process-email) - Process every item in your email inbox to Inbox Zero
+- Look at Calendar
+- Review [To-Do List](../to-do/to-do)
+
+
 - Think about how to improve what you do daily (1 hour) - Blank sheet of paper. Write Goal at the top of pirce of paper. Write 20 ways that the activites that fill your day can be be improved. Embeds your goal into your subconcious.  
 
 ## Ask
@@ -47,6 +67,12 @@ tags: [routines]
 - Group Chat
 	- Slack
 - Upload voice notes
+
+# Evening
+- Stop digital/social interactions
+- Write in Journal
+- Write goals and tasks for tomorrow on a fresh notepad sheet
+- Drink Water
 
 ## Guidance
 - Every act we perform during the day is goal-achieving, tension-relieving, or unnecessary.

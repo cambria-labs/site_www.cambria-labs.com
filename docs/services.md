@@ -2,7 +2,12 @@
 - **Product management & leadership** - Fast-track your company to achieve product-market fit
 - **Collaborative technology & Infrastructure** 
 	- Goal & task management 
-	- Decision-making 
+	- Decision-making tools
 	- Pair-collaboration & planning 
 	- Collaborative team sites & dashboards
 - Source experts
+- Pipelines
+	- Idea to Vision
+	- Idea to 3D
+	- Video Production Pipeline
+	- Social Media Automation
