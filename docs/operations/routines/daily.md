@@ -16,6 +16,7 @@ tags: [routines]
 - Stretch (Sun Salutations - 10 min)
 - Make Bed
 - Open Curtains
+- Clean up
 - Walk Dogs
 - Put on Music
 - Play with Dogs
